@@ -14,6 +14,6 @@ Helping industries and small businesses with innovative automation strategies.
 
 ## 🌐 Let's Connect
 - 🔗 [Portfolio Website](https://your-portfolio-link.com)
-- 💼 [LinkedIn](www.linkedin.com/in/raj-aryan-yadav-automation)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raj-aryan-yadav-automation/)
 - 📧 **Email**: yrajaryan98@outlook.com 
 - 📞 **Phone**: +44- 7882210804 
